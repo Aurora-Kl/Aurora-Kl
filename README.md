@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+##Beijing Institute of Technology
+
+##Computer Science and Technology
+
+##Kong Li
+
 <!--
 **Aurora-Kl/Aurora-Kl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
